@@ -1,2 +1,2 @@
-# MA-2071-Project1
-Project 1
+# MA-2071-Project
+Basic encryption and decryption
